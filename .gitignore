@@ -4,6 +4,8 @@ log/*.log
 tmp/
 .sass-cache/
 doc/
+vendor/
+.idea/
 *.swp
 *~
 .project
